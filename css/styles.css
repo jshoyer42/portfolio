@@ -38,6 +38,17 @@ header {
     margin-bottom: 40px;
 }
 
+.profile-image {
+    margin-bottom: 15px;
+}
+
+.profile-image img {
+    width: 120px;
+    height: 120px;
+    /*/border-radius: 50%; */
+    object-fit: cover;
+}
+
 h1 {
     font-size: 32px;
     font-weight: 600;
